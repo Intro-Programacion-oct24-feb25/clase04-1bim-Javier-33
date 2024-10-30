@@ -20,6 +20,7 @@ public class Ejemplo01 {
         nombreEstudiante = "René Elizalde";
         System.out.println(nombreEstudiante);
         System.out.println("René Elizalde");
+        //Una vez ya declarada la variable no se repite de que tipo es la variable
         nombreEstudiante = "Felipe Elizalde";
         System.out.println(nombreEstudiante);
     }
